@@ -1,0 +1,61 @@
+
+button.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btn_about_dow
+  rotate: false
+  xy: 1, 589
+  size: 400, 145
+  orig: 400, 145
+  offset: 0, 0
+  index: -1
+btn_about_up
+  rotate: false
+  xy: 1, 442
+  size: 400, 145
+  orig: 400, 145
+  offset: 0, 0
+  index: -1
+btn_dow
+  rotate: false
+  xy: 403, 589
+  size: 400, 145
+  orig: 400, 145
+  offset: 0, 0
+  index: -1
+btn_exit_dow
+  rotate: false
+  xy: 1, 295
+  size: 400, 145
+  orig: 400, 145
+  offset: 0, 0
+  index: -1
+btn_exit_up
+  rotate: false
+  xy: 403, 442
+  size: 400, 145
+  orig: 400, 145
+  offset: 0, 0
+  index: -1
+btn_option_dow
+  rotate: false
+  xy: 1, 148
+  size: 400, 145
+  orig: 400, 145
+  offset: 0, 0
+  index: -1
+btn_option_up
+  rotate: false
+  xy: 403, 295
+  size: 400, 145
+  orig: 400, 145
+  offset: 0, 0
+  index: -1
+btn_up
+  rotate: false
+  xy: 1, 1
+  size: 400, 145
+  orig: 400, 145
+  offset: 0, 0
+  index: -1
